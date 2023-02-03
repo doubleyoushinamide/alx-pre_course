@@ -3,15 +3,16 @@
 <<<<<<< HEAD
 The codes used are listed below:
 
-<p> echo "# alx-pre_course" >> README.md <p/>
-<p> git init <p/>
-<p> git add README.md <p/>
-<p> git commit -m "first commit" <p/>
-<p> git branch -M main <p/>
-<p> git remote add origin https://github.com/doubleyoushinamide/alx-pre_course.git <p/>
-<p> git push -u origin main <p/>
+<p> 
+echo "# alx-pre_course" >> README.md <br>
+git init <br>
+git add README.md <br>
+git commit -m "first commit" <br>
+git branch -M main <br>
+git remote add origin https://github.com/doubleyoushinamide/alx-pre_course.git <br>
+git push -u origin main <br>
 
-<p> git branch -a <p/>
-<p> git checkout <branch name> <p/>
-=================================
-
+git branch -a <br>
+git checkout <branch name> <br>
+================================= <br>
+</p>
